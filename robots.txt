@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://bnriun.github.io/zFi/sitemap.zFi.gz
